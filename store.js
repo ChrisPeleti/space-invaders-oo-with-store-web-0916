@@ -1,6 +1,6 @@
-const Store = {}
+const Store =  {}
 
 Store.data = {
   crewMembers:[],
-  spaceships: []
+  spaceships:[]
 }
